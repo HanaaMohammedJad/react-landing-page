@@ -1,0 +1,19 @@
+/* Start Subscribe */
+.subscribe {
+  background-color: #ffc400;
+}
+.subscribe input[type="text"] {
+  border: none;
+  border-bottom: 1px solid white;
+}
+.subscribe input[type="text"]:focus {
+  outline: none;
+}
+.subscribe ::placeholder {
+  color: white;
+}
+.subscribe input[type="submit"] {
+  background-color: #19283f;
+  color: #ffc400;
+}
+/* End Subscribe */
